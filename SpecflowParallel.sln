@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowParallel", "SpecflowParallel\SpecflowParallel.csproj", "{D4F39AEF-F4BB-4CD9-83A7-ED1B489D1F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F39AEF-F4BB-4CD9-83A7-ED1B489D1F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F39AEF-F4BB-4CD9-83A7-ED1B489D1F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F39AEF-F4BB-4CD9-83A7-ED1B489D1F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F39AEF-F4BB-4CD9-83A7-ED1B489D1F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDEE794-86D5-4C30-A593-DB9E37277B33}
+	EndGlobalSection
+EndGlobal
